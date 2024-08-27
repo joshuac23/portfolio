@@ -10,8 +10,15 @@ function App() {
     <>
       <h1>Welcome!</h1>
       <h2>About Me</h2>
+        <div>Some things about me</div>
       <h2>Projects</h2>
+        <ul>
+          <li>1</li>
+          <li>2</li>
+          <li>3</li>
+        </ul>
       <h2>Contact</h2>
+        <div>My email:</div>
     </>
     // <>
     //   <div>
