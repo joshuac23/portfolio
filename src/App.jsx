@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Welcome!</h1>
+      <h1>Welcome! My name is Joshua</h1>
       <h2>About Me</h2>
         <div>Some things about me</div>
       <h2>Projects</h2>
