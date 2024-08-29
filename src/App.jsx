@@ -4,6 +4,7 @@
 import './App.css'
 import Myfooter from './components/MyFooter'
 import Landing from './components/Landing'
+import About from './components/About'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -11,8 +12,7 @@ function App() {
   return (
     <>
       <Landing/>
-      <h2>About Me</h2>
-        <div>Some things about me</div>
+      <About/>
       <h2>Projects</h2>
         <ul>
           <li>1</li>
