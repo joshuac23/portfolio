@@ -5,6 +5,7 @@ import './App.css'
 import Myfooter from './components/MyFooter'
 import Landing from './components/Landing'
 import About from './components/About'
+import Projects from './components/Projects'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -13,12 +14,7 @@ function App() {
     <>
       <Landing/>
       <About/>
-      <h2>Projects</h2>
-        <ul>
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-        </ul>
+      <Projects/>
       <h2>Contact</h2>
         <div>My email:</div>
       <Myfooter/>
