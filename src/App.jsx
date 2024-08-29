@@ -6,6 +6,7 @@ import Myfooter from './components/MyFooter'
 import Landing from './components/Landing'
 import About from './components/About'
 import Projects from './components/Projects'
+import Contact from './components/Contact'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -15,8 +16,7 @@ function App() {
       <Landing/>
       <About/>
       <Projects/>
-      <h2>Contact</h2>
-        <div>My email:</div>
+      <Contact/>
       <Myfooter/>
     </>
   )
